@@ -1,3 +1,6 @@
+"""write a program to print the contents of a directory using the os module.
+search online for the function which does that"""
+
 import os
 
 # specify the directory you want to list
