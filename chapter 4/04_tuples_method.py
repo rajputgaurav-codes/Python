@@ -1,0 +1,5 @@
+b=(25,67,87,68,"Gaurav","shivam",245,6528,25)
+count=b.count(25)
+print(count)
+i=b.index("Gaurav")
+print(i)
