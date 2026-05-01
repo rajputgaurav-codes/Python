@@ -3,3 +3,6 @@ count=b.count(25)
 print(count)
 i=b.index("Gaurav")
 print(i)
+
+c=len(b)
+print(c)
