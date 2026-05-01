@@ -4,5 +4,6 @@ print(count)
 i=b.index("Gaurav")
 print(i)
 
+
 c=len(b)
 print(c)
