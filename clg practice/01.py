@@ -4,7 +4,7 @@
 # rev= l1[::-1]
 # print("reverse number :",int(rev))
 
-#using formula/logic
+  #using formula/logic
 num=int(input("enter the number : "))
 reverse=0
 while num > 0:
